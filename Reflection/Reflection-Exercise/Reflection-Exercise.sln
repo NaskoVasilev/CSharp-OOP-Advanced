@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarvestingFields", "HarvestingFields\HarvestingFields.csproj", "{453D87A5-1C83-475D-8186-27C2C6ABAD2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackBoxInteger", "BlackBoxInteger\BlackBoxInteger.csproj", "{0B1A6765-7851-43FE-80FB-6A5A4D7FC5F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_03BarracksFactory", "BarracksWars\_03BarracksFactory.csproj", "{429B1C45-0ADB-4E9B-9512-917044188143}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrafficLights", "TrafficLights\TrafficLights.csproj", "{FF3DED8A-506E-4445-8DBB-EB1B8940E799}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfernoInfinty", "InfernoInfinty\InfernoInfinty.csproj", "{698C40DB-B6B7-4FA1-B85F-DF93549D9334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomClassAttribute", "CustomClassAttribute\CustomClassAttribute.csproj", "{20CAC62F-6860-4C1F-8238-A4B04209036F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453D87A5-1C83-475D-8186-27C2C6ABAD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453D87A5-1C83-475D-8186-27C2C6ABAD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453D87A5-1C83-475D-8186-27C2C6ABAD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453D87A5-1C83-475D-8186-27C2C6ABAD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1A6765-7851-43FE-80FB-6A5A4D7FC5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1A6765-7851-43FE-80FB-6A5A4D7FC5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1A6765-7851-43FE-80FB-6A5A4D7FC5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1A6765-7851-43FE-80FB-6A5A4D7FC5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429B1C45-0ADB-4E9B-9512-917044188143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429B1C45-0ADB-4E9B-9512-917044188143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429B1C45-0ADB-4E9B-9512-917044188143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429B1C45-0ADB-4E9B-9512-917044188143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3DED8A-506E-4445-8DBB-EB1B8940E799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3DED8A-506E-4445-8DBB-EB1B8940E799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3DED8A-506E-4445-8DBB-EB1B8940E799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3DED8A-506E-4445-8DBB-EB1B8940E799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698C40DB-B6B7-4FA1-B85F-DF93549D9334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698C40DB-B6B7-4FA1-B85F-DF93549D9334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698C40DB-B6B7-4FA1-B85F-DF93549D9334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698C40DB-B6B7-4FA1-B85F-DF93549D9334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CAC62F-6860-4C1F-8238-A4B04209036F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CAC62F-6860-4C1F-8238-A4B04209036F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CAC62F-6860-4C1F-8238-A4B04209036F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CAC62F-6860-4C1F-8238-A4B04209036F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E409C82-F510-4C5A-A344-2A4546F31409}
+	EndGlobalSection
+EndGlobal
