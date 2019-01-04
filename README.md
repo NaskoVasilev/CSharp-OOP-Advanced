@@ -15,4 +15,6 @@ C# OOP Advanced course solutions. The third course of C# Fundamentals module in 
 
 7. Object Communication and Events
 
-  Final Exam : 400/400 points
+  Final Exam - 16 December 2018 : 400/400 points
+  
+  Retake Exam - 21 December 2018 : 400/400 points
